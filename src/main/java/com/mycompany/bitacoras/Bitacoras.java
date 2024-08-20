@@ -11,6 +11,6 @@ package com.mycompany.bitacoras;
 public class Bitacoras {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Buenos dias");
     }
 }
